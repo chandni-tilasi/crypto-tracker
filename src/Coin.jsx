@@ -8,7 +8,7 @@ const Coin = ({
   priceChange,
   volume,
 }) => {
-  console.log(coinName);
+  // console.log(coinName);
   return (
     <div className="coin-container">
       <div className="coin-row">
